@@ -1,0 +1,20 @@
+{
+  "name": "docker-example",
+  "version": "1.0.0",
+  "description": "Docker demonstration app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vladimir-skvortsov/ocker-example.git"
+  },
+  "author": "Vladimir Skvortsov <public@vladimirskvortsov.com> (https://vladimirskvortsov.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladimir-skvortsov/ocker-example/issues"
+  },
+  "homepage": "https://github.com/vladimir-skvortsov/ocker-example#readme"
+}
